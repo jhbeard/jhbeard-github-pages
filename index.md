@@ -14,6 +14,7 @@ GitHub supports emoji!
 [Link to second page](https://help.mypurecloud.com/).
 
 [markdowntest](markdowntest).
+:+1:
 
 There should be whitespace between paragraphs.
 
