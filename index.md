@@ -4,6 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[Link to PC](https://help.mypurecloud.com/)
+
 [Link to another page](another-page).
 
 [Link to second page](https://help.mypurecloud.com/).
