@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
-[Link to second page](second-page).
+[Link to second page](https://help.mypurecloud.com/).
 
 [Link to another page](another-page).
 
