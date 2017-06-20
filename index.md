@@ -3,6 +3,9 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
 
 [Link to PC](https://help.mypurecloud.com/)
 
