@@ -10,7 +10,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to second page](https://help.mypurecloud.com/).
 
-[Linktest](linktest).
+[Linktest](link-test).
 
 There should be whitespace between paragraphs.
 
