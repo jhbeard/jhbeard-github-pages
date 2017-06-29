@@ -1,5 +1,3 @@
-title: JHB Help Pilot
-description: This page is a personal project to explore GIT, Jekkyl, and Markdown.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-slate
+name: Hank Quinlan, Horrible Cop
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
